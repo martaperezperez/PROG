@@ -12,6 +12,6 @@ package Boletin29;
 public class Boletin29 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+
     }
 }
